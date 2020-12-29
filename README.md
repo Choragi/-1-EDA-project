@@ -1,4 +1,4 @@
-# 킥스타터 펀딩 성공의 핵심요소 분석
+# 킥스타터 펀딩 성공의 핵심요소 분석 (연습용)
 
 ![그림1](https://user-images.githubusercontent.com/68367214/96689036-d6980b00-13bc-11eb-93bc-dc76da35132f.png)
 
